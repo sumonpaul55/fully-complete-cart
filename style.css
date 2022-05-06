@@ -49,12 +49,6 @@
 }
 
 @media (max-width: 400px) {
-    html {
-        font-size: 30%;
-    }
-    img {
-        max-width: 25px;
-    }
     .price-place,
     .price-mobile {
         min-width: initial;
