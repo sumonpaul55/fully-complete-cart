@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.shoping-content,
+.calculation {
+    background-color: #6144c0;
+}
+
+.mobile {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.quantitynumber {
+    width: 90px;
+    background-color: rgb(187, 187, 187);
+}
+
+.plusmainas {
+    cursor: pointer;
+    font-size: 2rem;
+}
+
+.cross {
+    cursor: pointer;
+}
+
+#cover-quantity,
+#phone-quantity {
+    background: rgb(187, 187, 187);
+    font-size: 1.5rem;
+    max-width: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.price-place,
+.price-mobile {
+    min-width: 80px;
+}
